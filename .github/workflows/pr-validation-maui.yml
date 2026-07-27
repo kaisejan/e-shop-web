@@ -1,7 +1,7 @@
 name: eShop Pull Request Validation - .NET MAUI
 
 on:
-  pull_request:
+  pull_request: :
     branches:
       - '**'
     paths:
